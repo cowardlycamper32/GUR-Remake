@@ -12,7 +12,7 @@
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_xhosd"]
 texture = ExtResource("1_7y5f1")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -20,7 +20,7 @@ texture = ExtResource("1_7y5f1")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_xod4y"]
 texture = ExtResource("2_ddnuf")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -28,7 +28,7 @@ texture = ExtResource("2_ddnuf")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0a2vi"]
 texture = ExtResource("3_bonuw")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -36,7 +36,7 @@ texture = ExtResource("3_bonuw")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_880x7"]
 texture = ExtResource("4_f7exe")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -44,7 +44,7 @@ texture = ExtResource("4_f7exe")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_5pbgl"]
 texture = ExtResource("5_wemhv")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -52,7 +52,7 @@ texture = ExtResource("5_wemhv")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_jl8n8"]
 texture = ExtResource("6_334el")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -60,7 +60,7 @@ texture = ExtResource("6_334el")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_amduk"]
 texture = ExtResource("7_s28e1")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0
@@ -68,7 +68,7 @@ texture = ExtResource("7_s28e1")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_k07xc"]
 texture = ExtResource("8_c4ahl")
 0:0/animation_columns = 2
-0:0/animation_speed = 20.0
+0:0/animation_speed = 1.75
 0:0/animation_frame_0/duration = 1.0
 0:0/animation_frame_1/duration = 1.0
 0:0/0 = 0

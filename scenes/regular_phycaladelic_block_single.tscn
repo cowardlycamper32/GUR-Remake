@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://cyekjed7ptn4b"]
-
-[ext_resource type="TileSet" uid="uid://defgwsfb6mbl4" path="res://graphics/psyceladelic_block_16x.tres" id="1_61c2x"]
-
-[node name="TileMapLayer" type="TileMapLayer"]
-tile_map_data = PackedByteArray(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-tile_set = ExtResource("1_61c2x")
